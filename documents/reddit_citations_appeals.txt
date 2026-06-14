@@ -1,0 +1,21 @@
+Source: r/ASU
+Title: Got a parking ticket - has anyone actually won a citation appeal?
+Type: Reddit thread
+Topic: citations, tickets, appeals, booting
+
+OP:
+Got a $50 citation for parking in a maroon lot with a... I literally have a maroon permit. The plate reader must have messed up. Is appealing worth it or do they just deny everyone?
+
+Top comments:
+
+— Appeals are absolutely worth it and the success rate is higher than people think IF you have documentation. ASU's appeal system is online through your parking portal. For a plate-reader error like yours — you paid, the system glitched — attach a screenshot of your active permit and the payment confirmation. I won that exact appeal in 2 days, full dismissal. The plate reader mis-reads plates constantly (an 8 read as a B, etc.).
+
+— What gets DENIED: "I was only there 5 minutes," "I didn't see the sign," "I couldn't find anywhere else to park." Those are auto-denials. The system only cares about whether you actually had the right to be there, not your reasons.
+
+— Citation amounts roughly: expired/no permit in a permitted lot ~$50, parking in a reserved/disability space without authorization is way more (~$300+ and that one almost never gets appealed successfully, don't do it). Fire lane is also a big one.
+
+— BOOTING: if you rack up multiple unpaid citations (I think it's 3+) they will boot or tow your car. The boot removal fee is brutal on top of the existing fines. Pay or appeal your tickets promptly, don't let them stack. People have had $400+ situations from ignoring three $50 tickets.
+
+— Tip: you have a limited window to appeal (something like 10-14 days from the citation date). Miss the window and you lose the right to appeal even with a perfect case. Do it immediately.
+
+— Counterpoint: I appealed a legit ticket (I genuinely parked in the wrong lot) with a sob story and got denied, then it sat and I forgot, then it went to a hold on my account and I couldn't register for classes until I paid. Unpaid ASU citations can put a HOLD on your registration. That's the real enforcement mechanism, not towing.

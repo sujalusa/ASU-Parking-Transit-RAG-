@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+The Unofficial Guide to ASU Tempe Parking & Transit. This system makes searchable the parking and commuting knowledge ASU students actually share with each other — which structures fill by 8am, whether the $720 gold permit is worth it, free park-and-ride and visitor-pass workarounds, light rail reliability, and how to win a citation appeal. This knowledge is scattered across r/ASU threads, Google reviews of individual garages, and word-of-mouth; the official ASU parking site lists rates and rules but never tells you that the Rural Rd roof is open at 10am or that you can park free at the Tempe Library and ride the Orbit in.
 ---
 
 ## Documents

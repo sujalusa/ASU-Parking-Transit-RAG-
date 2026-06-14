@@ -1,0 +1,21 @@
+Source: r/ASU
+Title: How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)
+Type: Reddit thread
+Topic: shuttles, intercampus transit
+
+OP:
+I have a class at Tempe and a class at Downtown Phoenix on the same day. Is the intercampus shuttle reliable enough to make a connection, or am I going to be stranded?
+
+Top comments:
+
+— The intercampus shuttle is FREE for everyone with a Sun Card, no permit or U-Pass needed. The main lines are Tempe ↔ Downtown, Tempe ↔ Polytechnic, and Tempe ↔ West. The Tempe-Downtown shuttle runs really frequently during the day (every ~15-20 min) and takes about 20-25 min. You can honestly also just take the light rail between Tempe and Downtown, it's covered by getting on at the campus stops.
+
+— Polytechnic is the painful one. The Tempe ↔ Poly shuttle only runs about once an hour and takes 30-40 min depending on the 101/202 traffic. If you have back-to-back classes at Tempe and Poly, do not attempt it, you will miss the shuttle and be stuck for an hour. Try to schedule a full day at one campus.
+
+— Download the ASU Mobile app, it has live shuttle tracking (and the Mercado shuttle / DT circulator). The tracking is decent but during shift changes the bus just... disappears off the map for a bit. Don't panic, it usually shows back up.
+
+— The Mercado/Downtown circulator is a smaller loop bus around the Downtown campus area and the Mercado building. Most people don't need it, the Downtown campus is walkable.
+
+— Reliability for Tempe-Downtown specifically: I do it twice a week and it's been solid. Give yourself 40 min door to door to be safe including walking to the stop. The stop on the Tempe side is on College Ave near the bus bay, not in front of every building.
+
+— West campus shuttle from Tempe is the longest, like 45 min, runs limited times. West campus is way out in Glendale.
