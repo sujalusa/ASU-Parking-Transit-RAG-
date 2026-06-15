@@ -57,6 +57,11 @@ My corpus is **13 documents** spanning two source types (Reddit threads and Goog
 - **Sanity check on count:** ~25.6k total chars / ~420-char effective stride ≈ **~60 chunks** across 13 docs — comfortably above the rubric's "fewer than 50 = too large" floor and far below the 2,000 "too small" ceiling.
 - **How I'd know it's wrong:** too small → top results are sentence fragments with no standalone answer; too large → every query returns the same few mega-chunks with high distance scores because nothing is specific.
 
+**Implementation refinements added in Milestone 3** (kept chunk size 500 / overlap 80 unchanged):
+- **Context prefix per chunk.** Each chunk is prepended with `[<source_type> — <title>]` parsed from the document header. A Google review that just says "fills up insanely fast" loses meaning when split out on its own; the prefix records *which garage* it's about so the chunk passes the standalone-meaning test and the LLM can attribute it.
+- **Small-fragment merge (`MIN_CHUNK_CHARS = 80`).** The recursive splitter occasionally stranded a short line (e.g. a Reddit username `Longjumping-Pass2825:`) as its own 21-char chunk. Inspection caught this; I added a merge pass that folds sub-80-char fragments into a neighbor. This was *not* in the original plan — it came directly from reading the printed chunks, which is exactly why the spec mandates the inspection step.
+- Result: **67 chunks** across 13 docs, lengths 98–495 chars (median 350), zero empties.
+
 ---
 
 ## Retrieval Approach

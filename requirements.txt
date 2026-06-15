@@ -2,6 +2,7 @@ sentence-transformers==3.4.1
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
+langchain-text-splitters>=0.3.0   # RecursiveCharacterTextSplitter (Milestone 3 chunking)
 
 # Query interface — add whichever you use for Milestone 5:
 # gradio>=6.9.0

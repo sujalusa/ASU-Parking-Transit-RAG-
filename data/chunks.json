@@ -1,0 +1,672 @@
+[
+  {
+    "id": "google_reviews_apache_structure.txt::chunk_0",
+    "text": "[Google Reviews — google_reviews_apache_structure.txt]\nPlace: Apache Boulevard Parking Structure, ASU Tempe\n\n★★★★★ — \"The best-kept secret on campus. Stays open until almost 11am when every other structure is full by 9. Yes it's on the south edge by the light rail, but it's a 10 minute walk to most central buildings and I NEVER circle for a spot. Worth the walk.\"",
+    "body_only": "Place: Apache Boulevard Parking Structure, ASU Tempe\n\n★★★★★ — \"The best-kept secret on campus. Stays open until almost 11am when every other structure is full by 9. Yes it's on the south edge by the light rail, but it's a 10 minute walk to most central buildings and I NEVER circle for a spot. Worth the walk.\"",
+    "source": "google_reviews_apache_structure.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Apache Blvd",
+    "chunk_index": 0
+  },
+  {
+    "id": "google_reviews_apache_structure.txt::chunk_1",
+    "text": "[Google Reviews — google_reviews_apache_structure.txt]\n★★★★☆ — \"If you have a 10:30 class this is your garage. People avoid it because they think it's 'far' but it's right on the light rail line so you can also just hop one stop. Reliable availability is worth way more than 5 minutes of walking.\"\n\n★★★☆☆ — \"Fine structure, fills around 10:30-11. The walk to the engineering buildings is a bit much in the heat. But compared to fighting for a Tyler St spot it's a no-brainer in the morning.\"",
+    "body_only": "★★★★☆ — \"If you have a 10:30 class this is your garage. People avoid it because they think it's 'far' but it's right on the light rail line so you can also just hop one stop. Reliable availability is worth way more than 5 minutes of walking.\"\n\n★★★☆☆ — \"Fine structure, fills around 10:30-11. The walk to the engineering buildings is a bit much in the heat. But compared to fighting for a Tyler St spot it's a no-brainer in the morning.\"",
+    "source": "google_reviews_apache_structure.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Apache Blvd",
+    "chunk_index": 1
+  },
+  {
+    "id": "google_reviews_apache_structure.txt::chunk_2",
+    "text": "[Google Reviews — google_reviews_apache_structure.txt]\n★★★★☆ — \"Closest structure to the light rail station which makes it perfect for a park-and-ride hybrid. Park here, and if my class is on the north end I'll take the rail one stop instead of walking. Underrated combo.\"\n\n★★☆☆☆ — \"It's genuinely far if your classes are on the north side of campus by Coor and Durham. Fine for the south/athletics side. Know your building locations before you assume this works for you.\"",
+    "body_only": "★★★★☆ — \"Closest structure to the light rail station which makes it perfect for a park-and-ride hybrid. Park here, and if my class is on the north end I'll take the rail one stop instead of walking. Underrated combo.\"\n\n★★☆☆☆ — \"It's genuinely far if your classes are on the north side of campus by Coor and Durham. Fine for the south/athletics side. Know your building locations before you assume this works for you.\"",
+    "source": "google_reviews_apache_structure.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Apache Blvd",
+    "chunk_index": 2
+  },
+  {
+    "id": "google_reviews_apache_structure.txt::chunk_3",
+    "text": "[Google Reviews — google_reviews_apache_structure.txt]\n★★★★☆ — \"On normal days, the most available structure with a gold permit, hands down. On game days it's one of the first to flip to event parking though, so check before a Saturday.\"",
+    "body_only": "★★★★☆ — \"On normal days, the most available structure with a gold permit, hands down. On game days it's one of the first to flip to event parking though, so check before a Saturday.\"",
+    "source": "google_reviews_apache_structure.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Apache Blvd",
+    "chunk_index": 3
+  },
+  {
+    "id": "google_reviews_rural_road_garage.txt::chunk_0",
+    "text": "[Google Reviews — google_reviews_rural_road_garage.txt]\nPlace: Rural Road Parking Structure, ASU Tempe\n\n★★★★☆ — \"Solid second choice when Tyler is full. Maybe a 7-8 minute walk to the central buildings. The roof level is the move — almost always open even at 10am because people are too lazy to drive up and it's uncovered. Hot car in summer is the price.\"\n\n★★★☆☆ — \"Decent garage. Fills up around 9:30 on the lower levels. The big plus is it's right on Rural Rd so getting in and out toward the 202 is quick if you're commuting from the east valley.\"",
+    "body_only": "Place: Rural Road Parking Structure, ASU Tempe\n\n★★★★☆ — \"Solid second choice when Tyler is full. Maybe a 7-8 minute walk to the central buildings. The roof level is the move — almost always open even at 10am because people are too lazy to drive up and it's uncovered. Hot car in summer is the price.\"\n\n★★★☆☆ — \"Decent garage. Fills up around 9:30 on the lower levels. The big plus is it's right on Rural Rd so getting in and out toward the 202 is quick if you're commuting from the east valley.\"",
+    "source": "google_reviews_rural_road_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Rural Rd",
+    "chunk_index": 0
+  },
+  {
+    "id": "google_reviews_rural_road_garage.txt::chunk_1",
+    "text": "[Google Reviews — google_reviews_rural_road_garage.txt]\n★★★★★ — \"Underrated. Right next to a light rail stop so I park here, and on game days when this lot stays normal permit I can still get in while the stadium side is chaos. Great for connecting to transit too.\"\n\n★★☆☆☆ — \"The ramps are steep and narrow and there's always someone going the wrong way looking for a spot. Exiting after a 5pm class took forever. Fine in the morning, painful at peak evening.\"",
+    "body_only": "★★★★★ — \"Underrated. Right next to a light rail stop so I park here, and on game days when this lot stays normal permit I can still get in while the stadium side is chaos. Great for connecting to transit too.\"\n\n★★☆☆☆ — \"The ramps are steep and narrow and there's always someone going the wrong way looking for a spot. Exiting after a 5pm class took forever. Fine in the morning, painful at peak evening.\"",
+    "source": "google_reviews_rural_road_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Rural Rd",
+    "chunk_index": 1
+  },
+  {
+    "id": "google_reviews_rural_road_garage.txt::chunk_2",
+    "text": "[Google Reviews — google_reviews_rural_road_garage.txt]\n★★★★☆ — \"If you have a gold permit this should be your default if you arrive after 8:30 — Tyler's already gone but Rural still has the upper levels. Just commit to the walk and you'll never circle for parking again.\"\n\n★★★☆☆ — \"Good location, but the elevator is broken half the time so if you park on the roof be ready for stairs. Otherwise reliable availability compared to the more central structures.\"",
+    "body_only": "★★★★☆ — \"If you have a gold permit this should be your default if you arrive after 8:30 — Tyler's already gone but Rural still has the upper levels. Just commit to the walk and you'll never circle for parking again.\"\n\n★★★☆☆ — \"Good location, but the elevator is broken half the time so if you park on the roof be ready for stairs. Otherwise reliable availability compared to the more central structures.\"",
+    "source": "google_reviews_rural_road_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Rural Rd",
+    "chunk_index": 2
+  },
+  {
+    "id": "google_reviews_tyler_st_garage.txt::chunk_0",
+    "text": "[Google Reviews — google_reviews_tyler_st_garage.txt]\nPlace: Tyler Street Parking Structure, ASU Tempe\n\n★★★★☆ — \"Most central garage on campus. If you can get a spot here you're a 3 minute walk from the MU and the bookstore. The catch is everyone knows this, so it's full by 8:15 on weekdays. Come early or don't bother.\"\n\n★★☆☆☆ — \"Fills up insanely fast. I circled the ramps for 20 minutes at 9am and gave up. Great location, impossible availability. The exit at peak times is also a nightmare, sat 15 min just to tap out.\"",
+    "body_only": "Place: Tyler Street Parking Structure, ASU Tempe\n\n★★★★☆ — \"Most central garage on campus. If you can get a spot here you're a 3 minute walk from the MU and the bookstore. The catch is everyone knows this, so it's full by 8:15 on weekdays. Come early or don't bother.\"\n\n★★☆☆☆ — \"Fills up insanely fast. I circled the ramps for 20 minutes at 9am and gave up. Great location, impossible availability. The exit at peak times is also a nightmare, sat 15 min just to tap out.\"",
+    "source": "google_reviews_tyler_st_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Tyler St",
+    "chunk_index": 0
+  },
+  {
+    "id": "google_reviews_tyler_st_garage.txt::chunk_1",
+    "text": "[Google Reviews — google_reviews_tyler_st_garage.txt]\n★★★★★ — \"Honestly my favorite structure. Covered so my car isn't 140 degrees in May, close to everything, and the EV charging spots on the lower level are clutch. Just treat it like it opens at 8.\"\n\n★★★☆☆ — \"Location is unbeatable but it's old and the lanes are tight. Watched two people scrape mirrors. The plate-reader entry is convenient when it works but it misread my plate once and I got a citation despite having a valid permit (won the appeal, but annoying).\"",
+    "body_only": "★★★★★ — \"Honestly my favorite structure. Covered so my car isn't 140 degrees in May, close to everything, and the EV charging spots on the lower level are clutch. Just treat it like it opens at 8.\"\n\n★★★☆☆ — \"Location is unbeatable but it's old and the lanes are tight. Watched two people scrape mirrors. The plate-reader entry is convenient when it works but it misread my plate once and I got a citation despite having a valid permit (won the appeal, but annoying).\"",
+    "source": "google_reviews_tyler_st_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Tyler St",
+    "chunk_index": 1
+  },
+  {
+    "id": "google_reviews_tyler_st_garage.txt::chunk_2",
+    "text": "[Google Reviews — google_reviews_tyler_st_garage.txt]\n★★★★☆ — \"Pro tip nobody tells you: the lower levels fill first because people don't want to drive up. The top is usually open even mid-morning if you're willing to spiral up. Not covered up top though.\"\n\n★★☆☆☆ — \"Gold permit and still couldn't find a spot after 9. For $720 a year I expected to actually be able to park in the structure my permit is for. Availability does not match what you pay.\"",
+    "body_only": "★★★★☆ — \"Pro tip nobody tells you: the lower levels fill first because people don't want to drive up. The top is usually open even mid-morning if you're willing to spiral up. Not covered up top though.\"\n\n★★☆☆☆ — \"Gold permit and still couldn't find a spot after 9. For $720 a year I expected to actually be able to park in the structure my permit is for. Availability does not match what you pay.\"",
+    "source": "google_reviews_tyler_st_garage.txt",
+    "source_type": "Google Reviews",
+    "title": "",
+    "topic": "parking structure, Tyler St",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_0",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\nOP:\nFreshman moving into Barrett. Should I bring my bike or just use the Spin scooters? How bad is bike theft really?\n\nTop comments:",
+    "body_only": "OP:\nFreshman moving into Barrett. Should I bring my bike or just use the Spin scooters? How bad is bike theft really?\n\nTop comments:",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_1",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\nTop comments:\n\n— Bring the bike but bring a GOOD U-lock, not a cable lock. Bike theft at ASU Tempe is genuinely bad — cable locks get cut in seconds. ASU Tempe is huge and flat so a bike cuts a 20 min walk down to 6-7 min. But register your bike with ASU PD (it's free) so if it's recovered they can return it. I had two roommates lose bikes freshman year, both had cable locks. The one with a Kryptonite U-lock still has his after 3 years.",
+    "body_only": "Top comments:\n\n— Bring the bike but bring a GOOD U-lock, not a cable lock. Bike theft at ASU Tempe is genuinely bad — cable locks get cut in seconds. ASU Tempe is huge and flat so a bike cuts a 20 min walk down to 6-7 min. But register your bike with ASU PD (it's free) so if it's recovered they can return it. I had two roommates lose bikes freshman year, both had cable locks. The one with a Kryptonite U-lock still has his after 3 years.",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_2",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\n— The Spin scooters and bikes are all over campus. You unlock them in the app, they're like $1 to start plus ~$0.30/min. Fine for a one-off late-to-class sprint, but if you ride daily it adds up way faster than just owning a bike. There are designated parking corrals for them — if you leave a scooter blocking a walkway ASU can fine you / the app charges a penalty.",
+    "body_only": "— The Spin scooters and bikes are all over campus. You unlock them in the app, they're like $1 to start plus ~$0.30/min. Fine for a one-off late-to-class sprint, but if you ride daily it adds up way faster than just owning a bike. There are designated parking corrals for them — if you leave a scooter blocking a walkway ASU can fine you / the app charges a penalty.",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_3",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\n— Big thing people don't realize: the core of campus is a DISMOUNT ZONE during class passing periods. You cannot ride bikes or scooters through Palm Walk and the central malls during peak hours, you have to walk them. ASU PD does ticket for riding in dismount zones. So a bike doesn't save you as much time as you'd think right in the dead center.",
+    "body_only": "— Big thing people don't realize: the core of campus is a DISMOUNT ZONE during class passing periods. You cannot ride bikes or scooters through Palm Walk and the central malls during peak hours, you have to walk them. ASU PD does ticket for riding in dismount zones. So a bike doesn't save you as much time as you'd think right in the dead center.",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_4",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\n— Walking is genuinely fine for most people if you live on or adjacent to campus. The campus is about a 15 min walk corner to corner. The issue is ONLY when it's 110+ in Aug/Sept/May — then you want wheels or the shaded routes.",
+    "body_only": "— Walking is genuinely fine for most people if you live on or adjacent to campus. The campus is about a 15 min walk corner to corner. The issue is ONLY when it's 110+ in Aug/Sept/May — then you want wheels or the shaded routes.",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_bikes_scooters_theft.txt::chunk_5",
+    "text": "[r/ASU — Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft]\n— Park-and-bike combo: some commuters park a cheap beater bike at a light rail station, take the rail in, then... no wait that's backwards. The real combo is bike to a light rail station near your apartment, fold/lock it, rail to campus. Light rail lets you bring bikes on board too.\n\n— Scooter PSA: do NOT ride Spin scooters drunk on Mill Ave on the weekend. Tempe PD will absolutely cite you and it's treated seriously. Every semester someone learns this the hard way.",
+    "body_only": "— Park-and-bike combo: some commuters park a cheap beater bike at a light rail station, take the rail in, then... no wait that's backwards. The real combo is bike to a light rail station near your apartment, fold/lock it, rail to campus. Light rail lets you bring bikes on board too.\n\n— Scooter PSA: do NOT ride Spin scooters drunk on Mill Ave on the weekend. Tempe PD will absolutely cite you and it's treated seriously. Every semester someone learns this the hard way.",
+    "source": "reddit_bikes_scooters_theft.txt",
+    "source_type": "r/ASU",
+    "title": "Bike vs scooter vs walking on the Tempe campus - and PSA about bike theft",
+    "topic": "bikes, scooters, Spin, walking, theft",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_citations_appeals.txt::chunk_0",
+    "text": "[r/ASU — Got a parking ticket - has anyone actually won a citation appeal?]\nOP:\nGot a $50 citation for parking in a maroon lot with a... I literally have a maroon permit. The plate reader must have messed up. Is appealing worth it or do they just deny everyone?\n\nTop comments:",
+    "body_only": "OP:\nGot a $50 citation for parking in a maroon lot with a... I literally have a maroon permit. The plate reader must have messed up. Is appealing worth it or do they just deny everyone?\n\nTop comments:",
+    "source": "reddit_citations_appeals.txt",
+    "source_type": "r/ASU",
+    "title": "Got a parking ticket - has anyone actually won a citation appeal?",
+    "topic": "citations, tickets, appeals, booting",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_citations_appeals.txt::chunk_1",
+    "text": "[r/ASU — Got a parking ticket - has anyone actually won a citation appeal?]\nTop comments:\n\n— Appeals are absolutely worth it and the success rate is higher than people think IF you have documentation. ASU's appeal system is online through your parking portal. For a plate-reader error like yours — you paid, the system glitched — attach a screenshot of your active permit and the payment confirmation. I won that exact appeal in 2 days, full dismissal. The plate reader mis-reads plates constantly (an 8 read as a B, etc.).",
+    "body_only": "Top comments:\n\n— Appeals are absolutely worth it and the success rate is higher than people think IF you have documentation. ASU's appeal system is online through your parking portal. For a plate-reader error like yours — you paid, the system glitched — attach a screenshot of your active permit and the payment confirmation. I won that exact appeal in 2 days, full dismissal. The plate reader mis-reads plates constantly (an 8 read as a B, etc.).",
+    "source": "reddit_citations_appeals.txt",
+    "source_type": "r/ASU",
+    "title": "Got a parking ticket - has anyone actually won a citation appeal?",
+    "topic": "citations, tickets, appeals, booting",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_citations_appeals.txt::chunk_2",
+    "text": "[r/ASU — Got a parking ticket - has anyone actually won a citation appeal?]\n— What gets DENIED: \"I was only there 5 minutes,\" \"I didn't see the sign,\" \"I couldn't find anywhere else to park.\" Those are auto-denials. The system only cares about whether you actually had the right to be there, not your reasons.\n\n— Citation amounts roughly: expired/no permit in a permitted lot ~$50, parking in a reserved/disability space without authorization is way more (~$300+ and that one almost never gets appealed successfully, don't do it). Fire lane is also a big one.",
+    "body_only": "— What gets DENIED: \"I was only there 5 minutes,\" \"I didn't see the sign,\" \"I couldn't find anywhere else to park.\" Those are auto-denials. The system only cares about whether you actually had the right to be there, not your reasons.\n\n— Citation amounts roughly: expired/no permit in a permitted lot ~$50, parking in a reserved/disability space without authorization is way more (~$300+ and that one almost never gets appealed successfully, don't do it). Fire lane is also a big one.",
+    "source": "reddit_citations_appeals.txt",
+    "source_type": "r/ASU",
+    "title": "Got a parking ticket - has anyone actually won a citation appeal?",
+    "topic": "citations, tickets, appeals, booting",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_citations_appeals.txt::chunk_3",
+    "text": "[r/ASU — Got a parking ticket - has anyone actually won a citation appeal?]\n— BOOTING: if you rack up multiple unpaid citations (I think it's 3+) they will boot or tow your car. The boot removal fee is brutal on top of the existing fines. Pay or appeal your tickets promptly, don't let them stack. People have had $400+ situations from ignoring three $50 tickets.\n\n— Tip: you have a limited window to appeal (something like 10-14 days from the citation date). Miss the window and you lose the right to appeal even with a perfect case. Do it immediately.",
+    "body_only": "— BOOTING: if you rack up multiple unpaid citations (I think it's 3+) they will boot or tow your car. The boot removal fee is brutal on top of the existing fines. Pay or appeal your tickets promptly, don't let them stack. People have had $400+ situations from ignoring three $50 tickets.\n\n— Tip: you have a limited window to appeal (something like 10-14 days from the citation date). Miss the window and you lose the right to appeal even with a perfect case. Do it immediately.",
+    "source": "reddit_citations_appeals.txt",
+    "source_type": "r/ASU",
+    "title": "Got a parking ticket - has anyone actually won a citation appeal?",
+    "topic": "citations, tickets, appeals, booting",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_citations_appeals.txt::chunk_4",
+    "text": "[r/ASU — Got a parking ticket - has anyone actually won a citation appeal?]\n— Counterpoint: I appealed a legit ticket (I genuinely parked in the wrong lot) with a sob story and got denied, then it sat and I forgot, then it went to a hold on my account and I couldn't register for classes until I paid. Unpaid ASU citations can put a HOLD on your registration. That's the real enforcement mechanism, not towing.",
+    "body_only": "— Counterpoint: I appealed a legit ticket (I genuinely parked in the wrong lot) with a sob story and got denied, then it sat and I forgot, then it went to a hold on my account and I couldn't register for classes until I paid. Unpaid ASU citations can put a HOLD on your registration. That's the real enforcement mechanism, not towing.",
+    "source": "reddit_citations_appeals.txt",
+    "source_type": "r/ASU",
+    "title": "Got a parking ticket - has anyone actually won a citation appeal?",
+    "topic": "citations, tickets, appeals, booting",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_free_parking_hacks_REAL.txt::chunk_0",
+    "text": "[r/ASU (real, collected) — Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)]\nThere's a park & ride near Park Place that is right by the free streetcar, but I'm not sure how fast that will fill up. There are also park-and-rides at Price & Apache and McClintock & Apache. I think the light rail is $1 per ride for students. From McClintock you could board the train, or scooter or bike from there too.",
+    "body_only": "There's a park & ride near Park Place that is right by the free streetcar, but I'm not sure how fast that will fill up. There are also park-and-rides at Price & Apache and McClintock & Apache. I think the light rail is $1 per ride for students. From McClintock you could board the train, or scooter or bike from there too.",
+    "source": "reddit_free_parking_hacks_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)",
+    "topic": "park-and-ride, free parking, light rail, streetcar, visitor passes",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_free_parking_hacks_REAL.txt::chunk_1",
+    "text": "[r/ASU (real, collected) — Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)]\nThere's a parking lot by Tempe Beach Park that's free — I don't think there are time limits — then you connect with the streetcar on Mill. You can also park at the Tempe Public Library for free and take the free Tempe Orbit bus to campus, or the Rural Rd city bus for a fee, or bike. There's a big Safeway at Rural & Broadway too, not sure if they have rules about parking and leaving your car. The Cornerstone Mall does enforce / tow.",
+    "body_only": "There's a parking lot by Tempe Beach Park that's free — I don't think there are time limits — then you connect with the streetcar on Mill. You can also park at the Tempe Public Library for free and take the free Tempe Orbit bus to campus, or the Rural Rd city bus for a fee, or bike. There's a big Safeway at Rural & Broadway too, not sure if they have rules about parking and leaving your car. The Cornerstone Mall does enforce / tow.",
+    "source": "reddit_free_parking_hacks_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)",
+    "topic": "park-and-ride, free parking, light rail, streetcar, visitor passes",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_free_parking_hacks_REAL.txt::chunk_2",
+    "text": "[r/ASU (real, collected) — Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)]\nIf you have friends who live at District, they can get you a visitor pass to park for the day. Not sure if there are limits on how often per month they can do that. The LDS institute (the \"Mormon place\") on campus gives out $5 parking passes (per semester I think) in exchange for sitting in on a weekly lecture.",
+    "body_only": "If you have friends who live at District, they can get you a visitor pass to park for the day. Not sure if there are limits on how often per month they can do that. The LDS institute (the \"Mormon place\") on campus gives out $5 parking passes (per semester I think) in exchange for sitting in on a weekly lecture.",
+    "source": "reddit_free_parking_hacks_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)",
+    "topic": "park-and-ride, free parking, light rail, streetcar, visitor passes",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_free_parking_hacks_REAL.txt::chunk_3",
+    "text": "[r/ASU (real, collected) — Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)]\nYou know there's a bunch of apartments along Lemon/Orange St (near the Dutch Bros) that have parking for like $5 a day. They're like a 5-10 min walk to campus. A bunch of them also have guest parking so you can snag a spot for free — just don't leave your car overnight when the towing truck comes.",
+    "body_only": "You know there's a bunch of apartments along Lemon/Orange St (near the Dutch Bros) that have parking for like $5 a day. They're like a 5-10 min walk to campus. A bunch of them also have guest parking so you can snag a spot for free — just don't leave your car overnight when the towing truck comes.",
+    "source": "reddit_free_parking_hacks_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)",
+    "topic": "park-and-ride, free parking, light rail, streetcar, visitor passes",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_free_parking_hacks_REAL.txt::chunk_4",
+    "text": "[r/ASU (real, collected) — Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)]\nIf you're a client at the Speech and Hearing building or a patient at the health clinic, then you can sign your vehicle in at their parking lot and use it for the rest of the day. I always make the most out of my appointments.\n\nI know I'm a bit late but you could park at the Tempe Library and then use the free Orbit shuttle bus to get to campus.",
+    "body_only": "If you're a client at the Speech and Hearing building or a patient at the health clinic, then you can sign your vehicle in at their parking lot and use it for the rest of the day. I always make the most out of my appointments.\n\nI know I'm a bit late but you could park at the Tempe Library and then use the free Orbit shuttle bus to get to campus.",
+    "source": "reddit_free_parking_hacks_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Cheap and free parking hacks around ASU Tempe (park-and-ride, free lots, visitor passes)",
+    "topic": "park-and-ride, free parking, light rail, streetcar, visitor passes",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_0",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\nOP:\nFirst Saturday home game coming up. I have a gold permit and live off campus. Can I just park in my usual structure or does everything change for the game?\n\nTop comments:",
+    "body_only": "OP:\nFirst Saturday home game coming up. I have a gold permit and live off campus. Can I just park in my usual structure or does everything change for the game?\n\nTop comments:",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_1",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\nTop comments:\n\n— Everything changes. On game days many of the structures and lots near Mountain America Stadium (the old Sun Devil Stadium) get converted to EVENT parking and your normal permit does NOT honor them. They put out cones and attendants and charge a flat event rate (it's been like $20-40 depending on the lot and how close). Novus and the stadium-adjacent lots are the first to flip.",
+    "body_only": "Top comments:\n\n— Everything changes. On game days many of the structures and lots near Mountain America Stadium (the old Sun Devil Stadium) get converted to EVENT parking and your normal permit does NOT honor them. They put out cones and attendants and charge a flat event rate (it's been like $20-40 depending on the lot and how close). Novus and the stadium-adjacent lots are the first to flip.",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_2",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\n— If you just need to be on campus for non-game reasons on a game Saturday, park on the FAR side of campus from the stadium — Tyler St and the Rural Rd structures are usually still normal permit parking because they're far from the stadium. Apache and anything south/east near the stadium is where the event conversion happens.",
+    "body_only": "— If you just need to be on campus for non-game reasons on a game Saturday, park on the FAR side of campus from the stadium — Tyler St and the Rural Rd structures are usually still normal permit parking because they're far from the stadium. Apache and anything south/east near the stadium is where the event conversion happens.",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_3",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\n— Tailgating lots open early (like 4-5 hours before kickoff) and the whole area gridlocks. If you have any reason to drive near campus on a game day, check the kickoff time and avoid the 2 hours before it entirely. Mill Ave and Rural turn into parking lots.",
+    "body_only": "— Tailgating lots open early (like 4-5 hours before kickoff) and the whole area gridlocks. If you have any reason to drive near campus on a game day, check the kickoff time and avoid the 2 hours before it entirely. Mill Ave and Rural turn into parking lots.",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_4",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\n— The light rail is genuinely the best move for games. Free with U-Pass, drops you right by the stadium, and you skip the $30 event lot AND the post-game traffic jam where you sit in a structure for 45 min trying to exit. This is the one scenario where everyone agrees transit wins.",
+    "body_only": "— The light rail is genuinely the best move for games. Free with U-Pass, drops you right by the stadium, and you skip the $30 event lot AND the post-game traffic jam where you sit in a structure for 45 min trying to exit. This is the one scenario where everyone agrees transit wins.",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_gameday_football_parking.txt::chunk_5",
+    "text": "[r/ASU — First home football game - what changes about parking on game days?]\n— They announce the game-day parking changes through ASU and the athletics site a few days before each game with a map of which lots flip. Check it, because it's different per game (a noon kickoff vs an 8pm kickoff changes everything).\n\n— Resident students in stadium-adjacent dorms: you usually have to move your car the night before or you'll be blocked in / charged. They notify you but people miss the email every single time.",
+    "body_only": "— They announce the game-day parking changes through ASU and the athletics site a few days before each game with a map of which lots flip. Check it, because it's different per game (a noon kickoff vs an 8pm kickoff changes everything).\n\n— Resident students in stadium-adjacent dorms: you usually have to move your car the night before or you'll be blocked in / charged. They notify you but people miss the email every single time.",
+    "source": "reddit_gameday_football_parking.txt",
+    "source_type": "r/ASU",
+    "title": "First home football game - what changes about parking on game days?",
+    "topic": "game-day parking, events, Mountain America Stadium",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_0",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nOP (moomingodpapa_):\nASU has free shuttles that come every 15-30 minutes and go between the different campuses. There is also the light rail that goes from Phoenix to Tempe/Mesa-ish. People usually get skateboards, bicycles, or scooters to get around if they don't have a car. There's also Waymo, Lyft, and Uber if you're trying to get somewhere far.",
+    "body_only": "OP (moomingodpapa_):\nASU has free shuttles that come every 15-30 minutes and go between the different campuses. There is also the light rail that goes from Phoenix to Tempe/Mesa-ish. People usually get skateboards, bicycles, or scooters to get around if they don't have a car. There's also Waymo, Lyft, and Uber if you're trying to get somewhere far.",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_1",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nLongjumping-Pass2825:\nThe light rail line goes from Phoenix to Tempe (and a small distance into Mesa) and is decently reliable. However, there's only one line, so you'd need to make sure you're within walking distance of a station. In Tempe there are also two bus systems — one (Orbit) is free, but they fill up very quickly and are therefore not reliable if you need to be somewhere on time. The other buses are the same price as the light rail and are rarely full but often late",
+    "body_only": "Longjumping-Pass2825:\nThe light rail line goes from Phoenix to Tempe (and a small distance into Mesa) and is decently reliable. However, there's only one line, so you'd need to make sure you're within walking distance of a station. In Tempe there are also two bus systems — one (Orbit) is free, but they fill up very quickly and are therefore not reliable if you need to be somewhere on time. The other buses are the same price as the light rail and are rarely full but often late",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_2",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\n. Google and Apple Maps show the routes of all three of these options on the public transport view.",
+    "body_only": ". Google and Apple Maps show the routes of all three of these options on the public transport view.",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_3",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nFrom my experience, once you're on the bus or light rail it feels perfectly safe, although if you're the sort of person who can't handle proximity to your unhoused neighbours you might not share this opinion. Waiting at the stations can feel a bit more questionable, but this is mostly for some of the more remote bus stations. Light rail stations will often have transit police patrolling, and I would recommend it any day over the buses.",
+    "body_only": "From my experience, once you're on the bus or light rail it feels perfectly safe, although if you're the sort of person who can't handle proximity to your unhoused neighbours you might not share this opinion. Waiting at the stations can feel a bit more questionable, but this is mostly for some of the more remote bus stations. Light rail stations will often have transit police patrolling, and I would recommend it any day over the buses.",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_4",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nOP (moomingodpapa_):\nI've taken the train before, but didn't know it has a stop next to WP Carey School. Thanks for reminding me! Do students commonly use bikes/scooters as a way of transportation, or is it not recommended?\n\nLongjumping-Pass2825:\nYes, but they often get stolen. There are card-access bike lockers on Tempe campus at least, but I'm not sure about other locations.",
+    "body_only": "OP (moomingodpapa_):\nI've taken the train before, but didn't know it has a stop next to WP Carey School. Thanks for reminding me! Do students commonly use bikes/scooters as a way of transportation, or is it not recommended?\n\nLongjumping-Pass2825:\nYes, but they often get stolen. There are card-access bike lockers on Tempe campus at least, but I'm not sure about other locations.",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_5",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nOfficeChair70 (Software Engineering):\nNo lockers on Poly, but when a bike gets stolen out here it's the story of the week because it doesn't happen often. Tons of places to lock bikes.\n\nComprehensive-Peak63:\nThere is a service on campus that will watch your bike for you at no cost — https://cfo.asu.edu/bike-parking\n\n[deleted]:\nYes, just make sure to not be rude when you ride them (i.e. don't ride on the pavements, use the bike lanes, give right of way to pedestrians).",
+    "body_only": "OfficeChair70 (Software Engineering):\nNo lockers on Poly, but when a bike gets stolen out here it's the story of the week because it doesn't happen often. Tons of places to lock bikes.\n\nComprehensive-Peak63:\nThere is a service on campus that will watch your bike for you at no cost — https://cfo.asu.edu/bike-parking\n\n[deleted]:\nYes, just make sure to not be rude when you ride them (i.e. don't ride on the pavements, use the bike lanes, give right of way to pedestrians).",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_getting_around_transit_bikes_REAL.txt::chunk_6",
+    "text": "[r/ASU (real, collected) — Getting around ASU without a car - light rail, Orbit buses, bikes and scooters]\nIndependent_Ad7922:\nPull up Google and search for the place you're going to 15-20 mins in advance — you'll have all your options under the second option beside car routes, which are light rail, Orbit buses, streetcar, and Valley Metro buses.\n\n[deleted]:\nNear campus? Doable, but sometimes frustrating. Cross campus? ASU has free shuttles that run through all the campuses, they also run pretty late so loads of time slots for you to choose from.",
+    "body_only": "Independent_Ad7922:\nPull up Google and search for the place you're going to 15-20 mins in advance — you'll have all your options under the second option beside car routes, which are light rail, Orbit buses, streetcar, and Valley Metro buses.\n\n[deleted]:\nNear campus? Doable, but sometimes frustrating. Cross campus? ASU has free shuttles that run through all the campuses, they also run pretty late so loads of time slots for you to choose from.",
+    "source": "reddit_getting_around_transit_bikes_REAL.txt",
+    "source_type": "r/ASU (real, collected)",
+    "title": "Getting around ASU without a car - light rail, Orbit buses, bikes and scooters",
+    "topic": "light rail, Orbit bus, buses, bikes, scooters, bike theft, reliability, safety",
+    "chunk_index": 6
+  },
+  {
+    "id": "reddit_intercampus_shuttle.txt::chunk_0",
+    "text": "[r/ASU — How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)]\nOP:\nI have a class at Tempe and a class at Downtown Phoenix on the same day. Is the intercampus shuttle reliable enough to make a connection, or am I going to be stranded?\n\nTop comments:",
+    "body_only": "OP:\nI have a class at Tempe and a class at Downtown Phoenix on the same day. Is the intercampus shuttle reliable enough to make a connection, or am I going to be stranded?\n\nTop comments:",
+    "source": "reddit_intercampus_shuttle.txt",
+    "source_type": "r/ASU",
+    "title": "How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)",
+    "topic": "shuttles, intercampus transit",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_intercampus_shuttle.txt::chunk_1",
+    "text": "[r/ASU — How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)]\nTop comments:\n\n— The intercampus shuttle is FREE for everyone with a Sun Card, no permit or U-Pass needed. The main lines are Tempe ↔ Downtown, Tempe ↔ Polytechnic, and Tempe ↔ West. The Tempe-Downtown shuttle runs really frequently during the day (every ~15-20 min) and takes about 20-25 min. You can honestly also just take the light rail between Tempe and Downtown, it's covered by getting on at the campus stops.",
+    "body_only": "Top comments:\n\n— The intercampus shuttle is FREE for everyone with a Sun Card, no permit or U-Pass needed. The main lines are Tempe ↔ Downtown, Tempe ↔ Polytechnic, and Tempe ↔ West. The Tempe-Downtown shuttle runs really frequently during the day (every ~15-20 min) and takes about 20-25 min. You can honestly also just take the light rail between Tempe and Downtown, it's covered by getting on at the campus stops.",
+    "source": "reddit_intercampus_shuttle.txt",
+    "source_type": "r/ASU",
+    "title": "How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)",
+    "topic": "shuttles, intercampus transit",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_intercampus_shuttle.txt::chunk_2",
+    "text": "[r/ASU — How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)]\n— Polytechnic is the painful one. The Tempe ↔ Poly shuttle only runs about once an hour and takes 30-40 min depending on the 101/202 traffic. If you have back-to-back classes at Tempe and Poly, do not attempt it, you will miss the shuttle and be stuck for an hour. Try to schedule a full day at one campus.",
+    "body_only": "— Polytechnic is the painful one. The Tempe ↔ Poly shuttle only runs about once an hour and takes 30-40 min depending on the 101/202 traffic. If you have back-to-back classes at Tempe and Poly, do not attempt it, you will miss the shuttle and be stuck for an hour. Try to schedule a full day at one campus.",
+    "source": "reddit_intercampus_shuttle.txt",
+    "source_type": "r/ASU",
+    "title": "How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)",
+    "topic": "shuttles, intercampus transit",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_intercampus_shuttle.txt::chunk_3",
+    "text": "[r/ASU — How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)]\n— Download the ASU Mobile app, it has live shuttle tracking (and the Mercado shuttle / DT circulator). The tracking is decent but during shift changes the bus just... disappears off the map for a bit. Don't panic, it usually shows back up.\n\n— The Mercado/Downtown circulator is a smaller loop bus around the Downtown campus area and the Mercado building. Most people don't need it, the Downtown campus is walkable.",
+    "body_only": "— Download the ASU Mobile app, it has live shuttle tracking (and the Mercado shuttle / DT circulator). The tracking is decent but during shift changes the bus just... disappears off the map for a bit. Don't panic, it usually shows back up.\n\n— The Mercado/Downtown circulator is a smaller loop bus around the Downtown campus area and the Mercado building. Most people don't need it, the Downtown campus is walkable.",
+    "source": "reddit_intercampus_shuttle.txt",
+    "source_type": "r/ASU",
+    "title": "How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)",
+    "topic": "shuttles, intercampus transit",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_intercampus_shuttle.txt::chunk_4",
+    "text": "[r/ASU — How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)]\n— Reliability for Tempe-Downtown specifically: I do it twice a week and it's been solid. Give yourself 40 min door to door to be safe including walking to the stop. The stop on the Tempe side is on College Ave near the bus bay, not in front of every building.\n\n— West campus shuttle from Tempe is the longest, like 45 min, runs limited times. West campus is way out in Glendale.",
+    "body_only": "— Reliability for Tempe-Downtown specifically: I do it twice a week and it's been solid. Give yourself 40 min door to door to be safe including walking to the stop. The stop on the Tempe side is on College Ave near the bus bay, not in front of every building.\n\n— West campus shuttle from Tempe is the longest, like 45 min, runs limited times. West campus is way out in Glendale.",
+    "source": "reddit_intercampus_shuttle.txt",
+    "source_type": "r/ASU",
+    "title": "How do the intercampus shuttles actually work? (Tempe / Downtown / Poly / West)",
+    "topic": "shuttles, intercampus transit",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_0",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\nOP:\nEvery parking thread on here is people complaining about $720 permits and circling structures for 20 minutes. Meanwhile the light rail exists, costs $200/semester unlimited with the U-Pass, and drops you on campus. I've ridden it daily for two years. Here's my defense of it because everyone trashes it unfairly.\n\nPoints:",
+    "body_only": "OP:\nEvery parking thread on here is people complaining about $720 permits and circling structures for 20 minutes. Meanwhile the light rail exists, costs $200/semester unlimited with the U-Pass, and drops you on campus. I've ridden it daily for two years. Here's my defense of it because everyone trashes it unfairly.\n\nPoints:",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_1",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\nPoints:\n\n— Reliability is better than the complaints suggest. In two years of near-daily rides I've had maybe 3 significant delays. People remember the one bad day and forget the 200 fine ones. The 12-minute daytime frequency means even if you miss one, the next is right behind it. You cannot say that about finding a parking spot at 9am.",
+    "body_only": "Points:\n\n— Reliability is better than the complaints suggest. In two years of near-daily rides I've had maybe 3 significant delays. People remember the one bad day and forget the 200 fine ones. The 12-minute daytime frequency means even if you miss one, the next is right behind it. You cannot say that about finding a parking spot at 9am.",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_2",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\n— The \"it's sketchy\" thing is real but overstated and time-dependent. Daytime ridership is overwhelmingly students and commuters and it's totally fine. The legitimate concern is late nights, especially the downtown Phoenix segment — I'll give people that one. During class hours? Non-issue.",
+    "body_only": "— The \"it's sketchy\" thing is real but overstated and time-dependent. Daytime ridership is overwhelmingly students and commuters and it's totally fine. The legitimate concern is late nights, especially the downtown Phoenix segment — I'll give people that one. During class hours? Non-issue.",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_3",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\n— Cost isn't close. U-Pass ~$200/semester unlimited (rail + every bus in the valley) vs gold permit $720/year + gas + the time cost of circling. And you can read or sleep on the train instead of white-knuckling Rural Rd traffic.\n\n— The park-and-ride lots are free. You don't even have to give up your car. Drive to a station with a free lot, park, ride in. You skip the entire campus parking economy.",
+    "body_only": "— Cost isn't close. U-Pass ~$200/semester unlimited (rail + every bus in the valley) vs gold permit $720/year + gas + the time cost of circling. And you can read or sleep on the train instead of white-knuckling Rural Rd traffic.\n\n— The park-and-ride lots are free. You don't even have to give up your car. Drive to a station with a free lot, park, ride in. You skip the entire campus parking economy.",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_4",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\n— The honest tradeoffs where driving wins: weird schedules with long gaps (you're stuck on campus), late nights alone, and anything involving Polytechnic campus (transit to Poly is brutal). For a standard Tempe-campus schedule though, the math overwhelmingly favors the rail and people just don't want to hear it.\n\nReply: \"Counterpoint, I tried this and the 35 min each way vs my 12 min drive cost me 45+ min a day round trip. Time is the cost transit people undercount.\"",
+    "body_only": "— The honest tradeoffs where driving wins: weird schedules with long gaps (you're stuck on campus), late nights alone, and anything involving Polytechnic campus (transit to Poly is brutal). For a standard Tempe-campus schedule though, the math overwhelmingly favors the rail and people just don't want to hear it.\n\nReply: \"Counterpoint, I tried this and the 35 min each way vs my 12 min drive cost me 45+ min a day round trip. Time is the cost transit people undercount.\"",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_lightrail_defense_contrarian.txt::chunk_5",
+    "text": "[r/Tempe — Unpopular opinion: the light rail is good actually and you should stop driving to ASU]\nReply: \"True but I get that time back — I do readings on the train. You can't read while driving.\"",
+    "body_only": "Reply: \"True but I get that time back — I do readings on the train. You can't read while driving.\"",
+    "source": "reddit_lightrail_defense_contrarian.txt",
+    "source_type": "r/Tempe",
+    "title": "Unpopular opinion: the light rail is good actually and you should stop driving to ASU",
+    "topic": "light rail, Valley Metro, reliability, contrarian",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_0",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\nOP:\nI just signed a lease in Mesa near the Sycamore/Main St station. Should I get the U-Pass and ride the light rail to Tempe, or just buy a parking permit and drive? Worried about reliability and how long it actually takes.\n\nTop comments:",
+    "body_only": "OP:\nI just signed a lease in Mesa near the Sycamore/Main St station. Should I get the U-Pass and ride the light rail to Tempe, or just buy a parking permit and drive? Worried about reliability and how long it actually takes.\n\nTop comments:",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_1",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\nTop comments:\n\n— The student U-Pass is the single best deal ASU offers. It's about $200 for the full semester and it's UNLIMITED on all Valley Metro buses AND the light rail. Compare that to a $720 gold permit plus gas plus the stress. From Sycamore to the Tempe campus stops (Veterans Way/College Ave or University Dr/Rural Rd) it's about 30-35 minutes. Get the U-Pass.",
+    "body_only": "Top comments:\n\n— The student U-Pass is the single best deal ASU offers. It's about $200 for the full semester and it's UNLIMITED on all Valley Metro buses AND the light rail. Compare that to a $720 gold permit plus gas plus the stress. From Sycamore to the Tempe campus stops (Veterans Way/College Ave or University Dr/Rural Rd) it's about 30-35 minutes. Get the U-Pass.",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_2",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\n— Reliability: the light rail runs every 12 min during the day, every 20 min at night and weekends. It's pretty reliable but it is NOT immune to delays — if there's a car accident on the line or a medical hold it can sit for 15+ min and there's no way around it. I've been late to one exam in two years because of it. Build in a buffer.",
+    "body_only": "— Reliability: the light rail runs every 12 min during the day, every 20 min at night and weekends. It's pretty reliable but it is NOT immune to delays — if there's a car accident on the line or a medical hold it can sit for 15+ min and there's no way around it. I've been late to one exam in two years because of it. Build in a buffer.",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_3",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\n— The honest downside nobody mentions: the light rail at night can be sketchy. Late evening rides especially around the downtown Phoenix stretch you'll see people using it as a moving shelter. I'm a woman and I won't ride it alone after ~9pm, I'll Uber instead. During the day it's totally fine and packed with students.",
+    "body_only": "— The honest downside nobody mentions: the light rail at night can be sketchy. Late evening rides especially around the downtown Phoenix stretch you'll see people using it as a moving shelter. I'm a woman and I won't ride it alone after ~9pm, I'll Uber instead. During the day it's totally fine and packed with students.",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_4",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\n— Pro tip: park at a light rail station with a free park-and-ride lot (like the one near Sycamore or the Price-101 Fwy station) and ride in. Best of both worlds — you drive part way, skip the campus parking nightmare entirely, and still have your car. The park-and-ride lots are free.",
+    "body_only": "— Pro tip: park at a light rail station with a free park-and-ride lot (like the one near Sycamore or the Price-101 Fwy station) and ride in. Best of both worlds — you drive part way, skip the campus parking nightmare entirely, and still have your car. The park-and-ride lots are free.",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_lightrail_upass_commute.txt::chunk_5",
+    "text": "[r/ASU — Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?]\n— Contrarian take: if you have a 7am lab and an evening class with a 4 hour gap, the light rail means you're stuck on campus all day with no easy way home to nap. With a car you can leave. Transit is great for a normal schedule, painful for a weird one.\n\n— You activate the U-Pass through your My ASU portal and load it onto the Valley Metro app or a physical card. Don't get caught without a valid fare, the fare inspectors do sweep the trains and it's a $50+ citation.",
+    "body_only": "— Contrarian take: if you have a 7am lab and an evening class with a 4 hour gap, the light rail means you're stuck on campus all day with no easy way home to nap. With a car you can leave. Transit is great for a normal schedule, painful for a weird one.\n\n— You activate the U-Pass through your My ASU portal and load it onto the Valley Metro app or a physical card. Don't get caught without a valid fare, the fare inspectors do sweep the trains and it's a $50+ citation.",
+    "source": "reddit_lightrail_upass_commute.txt",
+    "source_type": "r/ASU",
+    "title": "Commuting from Mesa on the light rail - is the U-Pass worth it vs just parking?",
+    "topic": "light rail, Valley Metro, U-Pass, commuting",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_0",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\nOP:\nSo I'm a sophomore commuting from Tempe and I'm trying to figure out permits for next year. The \"Gold\" structure permit is like $720/year and the surface \"Maroon\" lot one is around $400. Is gold actually worth almost double? Where do you even park with maroon?\n\nTop comments:",
+    "body_only": "OP:\nSo I'm a sophomore commuting from Tempe and I'm trying to figure out permits for next year. The \"Gold\" structure permit is like $720/year and the surface \"Maroon\" lot one is around $400. Is gold actually worth almost double? Where do you even park with maroon?\n\nTop comments:",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_1",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\nTop comments:\n\n— Gold gets you into the structures (Tyler, Rural, Apache, Fulton, Packard, Novus). Maroon is surface lots like Lot 59 and the ones way out by the stadium. The real question is how far you're willing to walk. Gold = you park in a garage near the middle of campus. Maroon = you park on the edge and walk 12-15 min or take a shuttle. For $320 difference I think gold is worth it if you have early classes.",
+    "body_only": "Top comments:\n\n— Gold gets you into the structures (Tyler, Rural, Apache, Fulton, Packard, Novus). Maroon is surface lots like Lot 59 and the ones way out by the stadium. The real question is how far you're willing to walk. Gold = you park in a garage near the middle of campus. Maroon = you park on the edge and walk 12-15 min or take a shuttle. For $320 difference I think gold is worth it if you have early classes.",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_2",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\n— Don't buy the annual permit if you only have classes 2 days a week. The semester permit prorates better and ASU also sells a \"daily\" virtual permit through the ParkMobile app for like $12-15/day. If you're on campus less than ~3 days a week, daily ends up cheaper than any annual.",
+    "body_only": "— Don't buy the annual permit if you only have classes 2 days a week. The semester permit prorates better and ASU also sells a \"daily\" virtual permit through the ParkMobile app for like $12-15/day. If you're on campus less than ~3 days a week, daily ends up cheaper than any annual.",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_3",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\n— Heads up: the structure permits have a WAITLIST. I applied in July and didn't get a Rural Rd spot until late September. Apply in like May the second they open or you'll be stuck on surface lots for the first month. The waitlist is per-structure so you can be waitlisted for Tyler but get into Fulton same day.",
+    "body_only": "— Heads up: the structure permits have a WAITLIST. I applied in July and didn't get a Rural Rd spot until late September. Apply in like May the second they open or you'll be stuck on surface lots for the first month. The waitlist is per-structure so you can be waitlisted for Tyler but get into Fulton same day.",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_4",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\n— Counterpoint to everyone saying buy gold: I bought maroon for $400, park in Lot 59, and take the free intercampus shuttle / just walk. Saved $320 and honestly the walk is fine when it's not 110 degrees. In September and April it's miserable though, not gonna lie.",
+    "body_only": "— Counterpoint to everyone saying buy gold: I bought maroon for $400, park in Lot 59, and take the free intercampus shuttle / just walk. Saved $320 and honestly the walk is fine when it's not 110 degrees. In September and April it's miserable though, not gonna lie.",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 4
+  },
+  {
+    "id": "reddit_permits_cost_waitlist.txt::chunk_5",
+    "text": "[r/ASU — Is the gold permit actually worth $720 or am I getting scammed]\n— Graduate students get a slightly different rate and there's an evening-only permit that's way cheaper (~$200) if all your classes are after 4pm. Nobody tells you about the evening permit, look it up on the cfo.asu.edu parking site.\n\n— The permits are LICENSE PLATE based now, no physical hangtag. They scan your plate. So if you drive a different car one day you HAVE to update your plate in the portal or you'll get ticketed even though you paid. This screws people constantly.",
+    "body_only": "— Graduate students get a slightly different rate and there's an evening-only permit that's way cheaper (~$200) if all your classes are after 4pm. Nobody tells you about the evening permit, look it up on the cfo.asu.edu parking site.\n\n— The permits are LICENSE PLATE based now, no physical hangtag. They scan your plate. So if you drive a different car one day you HAVE to update your plate in the portal or you'll get ticketed even though you paid. This screws people constantly.",
+    "source": "reddit_permits_cost_waitlist.txt",
+    "source_type": "r/ASU",
+    "title": "Is the gold permit actually worth $720 or am I getting scammed",
+    "topic": "permits, cost, waitlists",
+    "chunk_index": 5
+  },
+  {
+    "id": "reddit_which_structure_fills_first.txt::chunk_0",
+    "text": "[r/ASU — Which parking structure fills up the earliest? Trying to plan my mornings]\nOP:\nI have an 8:30am MWF and a 10:30am TR. Which structures are realistically full by the time I get there? I have a gold permit so I can use any of them.\n\nTop comments:\n\n— Tyler St Garage is the first to fill, period. It's the most central (closest to the bookstore / Memorial Union side) so everyone wants it. If you're not in Tyler by 8:15am on a weekday you're not getting a spot below the 4th level. By 9am it's circling-the-ramp hell.",
+    "body_only": "OP:\nI have an 8:30am MWF and a 10:30am TR. Which structures are realistically full by the time I get there? I have a gold permit so I can use any of them.\n\nTop comments:\n\n— Tyler St Garage is the first to fill, period. It's the most central (closest to the bookstore / Memorial Union side) so everyone wants it. If you're not in Tyler by 8:15am on a weekday you're not getting a spot below the 4th level. By 9am it's circling-the-ramp hell.",
+    "source": "reddit_which_structure_fills_first.txt",
+    "source_type": "r/ASU",
+    "title": "Which parking structure fills up the earliest? Trying to plan my mornings",
+    "topic": "parking structures, fill times",
+    "chunk_index": 0
+  },
+  {
+    "id": "reddit_which_structure_fills_first.txt::chunk_1",
+    "text": "[r/ASU — Which parking structure fills up the earliest? Trying to plan my mornings]\n— Rural Road Garage fills second, usually full upper levels by 9:30. But here's the secret almost nobody uses: the TOP level (roof) of Rural Rd is almost always open even at 10am because people don't want to walk the extra ramps and there's no cover from sun. If you don't mind a hot car, roof of Rural is the move.",
+    "body_only": "— Rural Road Garage fills second, usually full upper levels by 9:30. But here's the secret almost nobody uses: the TOP level (roof) of Rural Rd is almost always open even at 10am because people don't want to walk the extra ramps and there's no cover from sun. If you don't mind a hot car, roof of Rural is the move.",
+    "source": "reddit_which_structure_fills_first.txt",
+    "source_type": "r/ASU",
+    "title": "Which parking structure fills up the earliest? Trying to plan my mornings",
+    "topic": "parking structures, fill times",
+    "chunk_index": 1
+  },
+  {
+    "id": "reddit_which_structure_fills_first.txt::chunk_2",
+    "text": "[r/ASU — Which parking structure fills up the earliest? Trying to plan my mornings]\n— Apache Blvd Structure stays open the longest, like 10:30-11am before it's full, because it's on the south edge by the light rail and people think it's \"far.\" It's a 10 min walk to most central buildings. Totally usable for a 10:30 class.\n\n— Fulton Center garage is downtown-adjacent and tied to the business school area, fills around 9:45. Packard is over by the engineering side and fills with engineering students early, like 8:45.",
+    "body_only": "— Apache Blvd Structure stays open the longest, like 10:30-11am before it's full, because it's on the south edge by the light rail and people think it's \"far.\" It's a 10 min walk to most central buildings. Totally usable for a 10:30 class.\n\n— Fulton Center garage is downtown-adjacent and tied to the business school area, fills around 9:45. Packard is over by the engineering side and fills with engineering students early, like 8:45.",
+    "source": "reddit_which_structure_fills_first.txt",
+    "source_type": "r/ASU",
+    "title": "Which parking structure fills up the earliest? Trying to plan my mornings",
+    "topic": "parking structures, fill times",
+    "chunk_index": 2
+  },
+  {
+    "id": "reddit_which_structure_fills_first.txt::chunk_3",
+    "text": "[r/ASU — Which parking structure fills up the earliest? Trying to plan my mornings]\n— Novus is the newest one (Novus Innovation Corridor, by the stadium) and is the EASIEST to find a spot in even at 10am, but it's a serious hike or a shuttle ride to old campus. Good if your classes are on the south/athletics side, bad if you're going to Coor or Durham.",
+    "body_only": "— Novus is the newest one (Novus Innovation Corridor, by the stadium) and is the EASIEST to find a spot in even at 10am, but it's a serious hike or a shuttle ride to old campus. Good if your classes are on the south/athletics side, bad if you're going to Coor or Durham.",
+    "source": "reddit_which_structure_fills_first.txt",
+    "source_type": "r/ASU",
+    "title": "Which parking structure fills up the earliest? Trying to plan my mornings",
+    "topic": "parking structures, fill times",
+    "chunk_index": 3
+  },
+  {
+    "id": "reddit_which_structure_fills_first.txt::chunk_4",
+    "text": "[r/ASU — Which parking structure fills up the earliest? Trying to plan my mornings]\n— Real talk: by 9am on a Monday all the central structures are functionally full and you'll waste 15 min ramping. Just go straight to Apache or Novus and build in the walk. Or get to campus before 8:15. There's no third option.\n\n— Game-day weekends throw all of this out the window, see the football parking threads.",
+    "body_only": "— Real talk: by 9am on a Monday all the central structures are functionally full and you'll waste 15 min ramping. Just go straight to Apache or Novus and build in the walk. Or get to campus before 8:15. There's no third option.\n\n— Game-day weekends throw all of this out the window, see the football parking threads.",
+    "source": "reddit_which_structure_fills_first.txt",
+    "source_type": "r/ASU",
+    "title": "Which parking structure fills up the earliest? Trying to plan my mornings",
+    "topic": "parking structures, fill times",
+    "chunk_index": 4
+  }
+]
