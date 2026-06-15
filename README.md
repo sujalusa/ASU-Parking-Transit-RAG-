@@ -84,6 +84,16 @@ shuttles, bikes/scooters, citations & appeals, game-day parking, and free-parkin
 workarounds. Docs #5 and #10 deliberately **disagree** about whether the light rail
 is worth it, to test whether the system surfaces conflicting opinions.
 
+**Source provenance / URLs:** The two REAL files were collected from live r/ASU threads
+(found via r/ASU searches for *parking*, *light rail*, *commute*, *U-Pass*); the thread
+text was copied to `.txt` because Reddit's JS rendering blocks simple scraping. The
+Google-review files correspond to real Google-listed places (Tyler St Garage, Rural
+Road Garage, Apache Blvd Structure). The remaining files are realistic, student-style
+documents authored to fill subtopic buckets and are **not** scraped from a specific URL
+— they are flagged as such here so the corpus provenance is fully honest. To make the
+final corpus entirely real, these would be swapped for additional live r/ASU / r/Tempe
+threads using the same `documents/*.txt` format (the pipeline is source-agnostic).
+
 ---
 
 ## Chunking Strategy
@@ -119,6 +129,42 @@ median 350, zero empty chunks) — comfortably above the 50 floor and far below 
 
 ---
 
+## Sample Chunks
+
+Five representative chunks (reproducible via `python ingest.py`, which prints a random
+sample). Each is a self-contained opinion and carries its source document name.
+
+**[1] source: `reddit_intercampus_shuttle.txt`** (chunk 2, 306 chars)
+> — Polytechnic is the painful one. The Tempe ↔ Poly shuttle only runs about once an
+> hour and takes 30–40 min depending on the 101/202 traffic. If you have back-to-back
+> classes at Tempe and Poly, do not attempt it, you will miss the shuttle and be stuck
+> for an hour. Try to schedule a full day at one campus.
+
+**[2] source: `reddit_citations_appeals.txt`** (chunk 3, 477 chars)
+> — BOOTING: if you rack up multiple unpaid citations (I think it's 3+) they will boot
+> or tow your car. The boot removal fee is brutal on top of the existing fines. Pay or
+> appeal your tickets promptly, don't let them stack. People have had $400+ situations
+> from ignoring three $50 tickets. — Tip: you have a limited window to appeal…
+
+**[3] source: `reddit_lightrail_upass_commute.txt`** (chunk 0, 239 chars)
+> OP: I just signed a lease in Mesa near the Sycamore/Main St station. Should I get the
+> U-Pass and ride the light rail to Tempe, or just buy a parking permit and drive?
+> Worried about reliability and how long it actually takes. Top comments:
+
+**[4] source: `google_reviews_rural_road_garage.txt`** (chunk 2, 404 chars)
+> ★★★★☆ — "If you have a gold permit this should be your default if you arrive after
+> 8:30 — Tyler's already gone but Rural still has the upper levels. Just commit to the
+> walk and you'll never circle for parking again." ★★★☆☆ — "Good location, but the
+> elevator is broken half the time so if you park on the roof be ready for stairs…"
+
+**[5] source: `google_reviews_tyler_st_garage.txt`** (chunk 2, 397 chars)
+> ★★★★☆ — "Pro tip nobody tells you: the lower levels fill first because people don't
+> want to drive up. The top is usually open even mid-morning if you're willing to
+> spiral up. Not covered up top though." ★★☆☆☆ — "Gold permit and still couldn't find
+> a spot after 9. For $720 a year I expected to actually be able to park…"
+
+---
+
 ## Embedding Model
 
 **Model used:** `all-MiniLM-L6-v2` via `sentence-transformers` (384-dim, runs locally,
@@ -141,6 +187,53 @@ constraint, I'd weigh:
   privacy; an API model adds latency, cost, and a data-sharing consideration. For
   production I'd likely keep embeddings local but A/B test a hosted large model on the
   eval set before committing.
+
+---
+
+## Retrieval Test Results
+
+Retrieval tested *before* generation was wired in (`python embed.py --test`). Cosine
+distances shown; lower = more similar. All top results land below the 0.5 "good match"
+threshold.
+
+**Query A — "Which parking structure fills up the earliest and how do I find a spot late morning?"**
+
+| Rank | Distance | Source | Chunk preview |
+|------|----------|--------|---------------|
+| 1 | 0.275 | `reddit_which_structure_fills_first.txt` | "Tyler St Garage is the first to fill, period… not getting a spot below the 4th level [after 8:15]" |
+| 2 | 0.318 | `reddit_which_structure_fills_first.txt` | "Rural Road…full upper levels by 9:30. But…the TOP level (roof)…almost always open even at 10am" |
+| 3 | 0.328 | `reddit_which_structure_fills_first.txt` | "Apache Blvd Structure stays open the longest, like 10:30–11am…" |
+| 4 | 0.338 | `reddit_which_structure_fills_first.txt` | "by 9am all the central structures are functionally full…go straight to Apache or Novus" |
+
+*Why these are relevant:* the query asks two things — which fills first *and* a
+late-morning workaround. Rank 1 answers "earliest" (Tyler, 8:15); ranks 2–3 answer the
+workaround (Rural's roof at 10am, Apache till 11). Semantic search surfaced the
+"workaround" chunks even though the word "workaround" never appears in them — it
+matched the *meaning* ("open even at 10am"), which a keyword search would miss.
+
+**Query B — "Is the U-Pass worth it for commuting from Mesa and how reliable is the light rail?"**
+
+| Rank | Distance | Source | Chunk preview |
+|------|----------|--------|---------------|
+| 1 | 0.186 | `reddit_lightrail_upass_commute.txt` | "Reliability: the light rail runs every 12 min during the day…NOT immune to delays" |
+| 2 | 0.233 | `reddit_lightrail_upass_commute.txt` | "OP: signed a lease in Mesa near Sycamore/Main St…should I get the U-Pass…" |
+| 3 | 0.242 | `reddit_lightrail_upass_commute.txt` | "the honest downside…the light rail at night can be sketchy…after ~9pm" |
+| 4 | 0.297 | `reddit_lightrail_upass_commute.txt` | "Contrarian take: if you have a 7am lab and an evening class with a 4 hour gap…" |
+
+*Why these are relevant:* the 0.186 top distance is the strongest match in the whole
+test set — the query's "Mesa", "U-Pass", and "reliable" map directly onto a thread
+that opens with a Mesa commuter asking exactly that. Retrieval pulled both the positive
+(every-12-min reliability) and the caveat (sketchy at night) chunks, giving the LLM a
+balanced evidence set.
+
+**Query C — "Can I appeal a parking ticket if the plate reader misread my license plate?"**
+
+| Rank | Distance | Source | Chunk preview |
+|------|----------|--------|---------------|
+| 1 | 0.256 | `reddit_citations_appeals.txt` | "Appeals are absolutely worth it…attach a screenshot of your active permit and payment" |
+| 2 | 0.306 | `reddit_citations_appeals.txt` | "OP: Got a $50 citation…I literally have a maroon permit. The plate reader must have messed up" |
+| 3 | 0.492 | `reddit_citations_appeals.txt` | "What gets DENIED: 'I was only there 5 minutes'…auto-denials" |
+| 4 | 0.504 | `reddit_citations_appeals.txt` | "BOOTING: if you rack up multiple unpaid citations…" |
 
 ---
 
@@ -174,6 +267,94 @@ and their distance scores, so a viewer can verify grounding directly.
 > listed as a source even though the answer didn't draw on it. This is a deliberate
 > "here's everything the answer could have used" choice, but it means *retrieved* ≠
 > *cited*.
+
+---
+
+## Example Responses
+
+Verbatim system output (`python query.py "<question>"`). Source attribution is visible
+in the answer text (inline `[n]`) and in the printed `Sources` block.
+
+**Example 1 — grounded answer with attribution**
+```
+Q: Which parking structure fills up the earliest, and where can I still find a spot late morning?
+
+The Tyler St Garage fills up the earliest, with spots below the 4th level typically
+gone by 8:15am on weekdays [2]. A workaround is the Apache Blvd Structure, which stays
+open the longest, until around 10:30-11am [3], or the top level of the Rural Road
+Garage, which is often available even at 10am [1]. You can also try the Novus structure [4].
+
+Sources:
+  • reddit_which_structure_fills_first.txt
+```
+
+**Example 2 — grounded answer with attribution**
+```
+Q: Can I appeal a parking ticket if the plate reader misread my license plate?
+
+Yes, you can appeal a ticket due to a plate reader misread, and it's worth it if you
+have documentation [1]. To appeal, use the online appeal system through your parking
+portal and attach a screenshot of your active permit and payment confirmation [1].
+Appeal promptly — there's a limited window, around 10-14 days from the citation date [4].
+Appeals with reasons like "I was only there 5 minutes" are often denied [3].
+
+Sources:
+  • reddit_citations_appeals.txt
+```
+
+**Example 3 — out-of-scope query, refusal (no fabricated answer)**
+```
+Q: What time does the ASU dining hall close on weekends?
+
+I don't have enough information on that.
+
+Sources:
+  (none — not enough information in the documents)
+```
+The corpus contains nothing about dining hours, so the grounding instruction forces a
+refusal instead of a plausible-sounding guess from the model's training data.
+
+---
+
+## Query Interface
+
+A **Gradio web app** (`python app.py` → http://localhost:7860). Also usable as a CLI
+(`python query.py "your question"`).
+
+**Input field**
+- *Your question* (textbox) — a free-text, plain-language question. Submit with the
+  **Ask** button or Enter. Six clickable example questions are provided.
+
+**Output fields**
+- *Answer* (textbox) — the grounded answer with inline `[n]` citations, or the refusal
+  sentence if the documents don't cover the question.
+- *Sources (documents cited)* (textbox) — bulleted list of the source files behind the
+  answer, or "(none…)" on a refusal.
+- *Retrieved chunks (the evidence behind the answer)* (collapsible panel) — the actual
+  retrieved chunks with their source filename and cosine distance, so a viewer can
+  confirm the answer is grounded in real retrieved text.
+
+**Sample interaction transcript**
+```
+[user types in "Your question"]:  What are free or cheap ways to park near campus without a permit?
+[user clicks Ask]
+
+Answer:
+  To park near ASU Tempe without buying a permit, you can: park at the Tempe Public
+  Library and take the free Tempe Orbit bus to campus [2]; park at the lot by Tempe
+  Beach Park and connect with the streetcar on Mill [2]; snag free guest parking at
+  apartments along Lemon/Orange St [1]; or, if you have an appointment, sign your
+  vehicle in at the Speech and Hearing building / health clinic lot [4].
+
+Sources (documents cited):
+  • reddit_free_parking_hacks_REAL.txt
+
+Retrieved chunks (the evidence behind the answer):
+  [1] reddit_free_parking_hacks_REAL.txt — distance 0.316
+  [2] reddit_free_parking_hacks_REAL.txt — distance 0.320
+  [3] reddit_free_parking_hacks_REAL.txt — distance 0.374
+  [4] reddit_free_parking_hacks_REAL.txt — distance 0.377
+```
 
 ---
 
