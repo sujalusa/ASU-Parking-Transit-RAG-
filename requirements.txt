@@ -5,7 +5,8 @@ python-dotenv==1.0.1
 langchain-text-splitters>=0.3.0   # RecursiveCharacterTextSplitter (Milestone 3 chunking)
 
 # Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
+gradio==6.9.0          # 6.18+ requires huggingface-hub>=1.2, which conflicts with sentence-transformers 3.4.1
+huggingface-hub<1.0    # pin: keep compatible with both gradio 6.9 and sentence-transformers
 # streamlit>=1.40.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
